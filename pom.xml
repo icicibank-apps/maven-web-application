@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SDS Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.92.29:9980/shreyastech/repository/citibank-release/</url>
+	      <url>http://13.233.190.162:8081/shreyastech/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SDS Technologies Snapshot Nexus Repository</name>
-	      <url>http://13.233.92.29:9980/shreyastech/repository/citibank-snapshot/</url>
+	      <url>http://13.233.190.162:8081/shreyastech/repository/citibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
